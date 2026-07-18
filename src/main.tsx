@@ -3,7 +3,6 @@ import { createRoot } from "react-dom/client";
 import { BrowserRouter } from "react-router-dom";
 import "@fontsource-variable/baloo-2/index.css";
 import "@fontsource-variable/nunito/index.css";
-import "@fontsource-variable/playfair-display/index.css";
 import App from "./App";
 import "./styles.css";
 

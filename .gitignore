@@ -6,6 +6,7 @@ dist/
 # Local source files already copied into public assets
 /*.pdf
 /*.jpg
+/*.ttf
 /public/images/stickers/*-source.png
 
 # Local agent metadata

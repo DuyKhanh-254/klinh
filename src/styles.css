@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "History Nineties";
+  src: url("/fonts/history-nineties.ttf") format("truetype");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
 :root {
   font-family: "Nunito Variable", "Segoe UI", sans-serif;
   color: #5d2a3f;
@@ -465,9 +473,9 @@ p {
 
 .hero-copy h1 {
   max-width: 640px;
-  font-family: "Playfair Display Variable", Georgia, serif;
+  font-family: "History Nineties", Georgia, serif;
   font-size: clamp(3.6rem, 5.4vw, 5rem);
-  font-weight: 650;
+  font-weight: 400;
   line-height: 0.9;
   letter-spacing: -0.045em;
 }
