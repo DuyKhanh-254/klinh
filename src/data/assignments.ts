@@ -88,8 +88,8 @@ export const assignments: Assignment[] = [
     description:
       "Mô tả cách một nhóm bốn thành viên phân công, cùng soạn thảo và trao đổi trong dự án về chế định đồng phạm.",
     fileType: "PDF",
-    originalFileName: "bài 4.pdf",
-    fileSize: "92 KB",
+    originalFileName: "bài 4pdf.pdf",
+    fileSize: "116 KB",
     pages: 4,
     previewImage: "/images/assignments/assignment-4.webp",
     downloadPath: "/downloads/assignment-4.pdf",
