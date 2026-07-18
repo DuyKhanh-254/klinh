@@ -465,9 +465,11 @@ p {
 
 .hero-copy h1 {
   max-width: 640px;
+  font-family: "Playfair Display Variable", Georgia, serif;
   font-size: clamp(3.6rem, 5.4vw, 5rem);
-  font-weight: 850;
-  line-height: 0.84;
+  font-weight: 650;
+  line-height: 0.9;
+  letter-spacing: -0.045em;
 }
 
 .hero-copy h1 span {
