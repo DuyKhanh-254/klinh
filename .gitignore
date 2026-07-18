@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.visual-audit/
+.agents/
+
+# Local source files already copied into public assets
+/*.pdf
+/*.jpg
+/public/images/stickers/*-source.png
+
+# Local agent metadata
+skills-lock.json
+
+*.log
+.DS_Store
